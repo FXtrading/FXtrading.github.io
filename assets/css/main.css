@@ -342,6 +342,9 @@ ul li {
   text-align: center;
 }
 
+#registration {
+  padding: 0;
+}
 /* 
  * 3.0 Helper Class
  */
@@ -736,6 +739,9 @@ ul li {
 /* 
  * 6.9 Section: photos
  */
+#photos {
+  padding: 0;
+}
 .grid {
   list-style-type: none;
   padding: 0;
